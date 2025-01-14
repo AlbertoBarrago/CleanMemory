@@ -1,5 +1,3 @@
-Here is a sample README file for the script you've shared:
-
 # clean_memory.sh
 
 ## Description
