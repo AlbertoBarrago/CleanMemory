@@ -1,4 +1,4 @@
-# clean_memory.sh
+# 🚽 Clean Memory
 
 ## Description
 This script contains a collection of commands that are used to update system resources and software.
