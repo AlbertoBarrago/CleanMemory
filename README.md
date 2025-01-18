@@ -4,7 +4,7 @@
 This script contains a collection of commands that are used to update system resources and software.
 
 ## Usage
-To run the script, simply execute `./script_name.sh`.
+To run the script, simply execute `./script_name.sh`
 
 ## Permission 
 `sudo chmod 755 clean_memory.sh`
